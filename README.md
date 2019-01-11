@@ -7,10 +7,8 @@ GO111MODULE=on go get github.com/kentakozuka/go-module-hello@v1.0.0
 
 
 ```sh
-❯ cat go.mod
-module github.com/kentakozuka/go-module-sample
-
-require github.com/kentakozuka/go-module-hello v1.0.0 // indirect
+GO111MODULE=on go get github.com/kentakozuka/go-module-sample/new
+GO111MODULE=on go get github.com/kentakozuka/go-module-sample/old
 ```
 
 ```sh

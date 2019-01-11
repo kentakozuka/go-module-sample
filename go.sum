@@ -1,0 +1,8 @@
+github.com/kentakozuka/go-module-hello v1.0.0 h1:A9rzAOiDSWIuSGEO7Du4+VqbiUQOEbc+kh7/hdn06pk=
+github.com/kentakozuka/go-module-hello v1.0.0/go.mod h1:B7YscYykl1y8ea+DEdBjHDdkKkt/PzxTlia0/Cv+I0I=
+github.com/kentakozuka/go-module-hello v1.1.0 h1:oDRC1V86kM/ivWQjxJghFqn0c6JBBvmqZ9cBv/x07YQ=
+github.com/kentakozuka/go-module-hello v1.1.0/go.mod h1:B7YscYykl1y8ea+DEdBjHDdkKkt/PzxTlia0/Cv+I0I=
+github.com/kentakozuka/go-module-sample/new v0.0.0-20190111134810-ea5ec3746a9c h1:vK8YgxRiHvELawhi32IsQZnPFMIGGZRMRIxOzN9Ddcc=
+github.com/kentakozuka/go-module-sample/new v0.0.0-20190111134810-ea5ec3746a9c/go.mod h1:Hr3tbzamC8p2JskxvxnRqVOk6xF8nAHTA6OVOkfFbHs=
+github.com/kentakozuka/go-module-sample/old v0.0.0-20190111134810-ea5ec3746a9c h1:OAiy3JzSwVTvuevtmvGFOCMsejO6H/jL+PCWzMhmi78=
+github.com/kentakozuka/go-module-sample/old v0.0.0-20190111134810-ea5ec3746a9c/go.mod h1:R5sihz40QYwVaEEklbOxrzjn6M+OoF4b+++bdLk3+bA=
