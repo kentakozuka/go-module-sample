@@ -1,7 +1,7 @@
 
 ```sh
-GO111MODULE=on go mod init
-GO111MODULE=on go get github.com/kentakozuka/go-module-hello@v1.1.0
+GO111MODULE=on go mod init main
+GO111MODULE=on go get github.com/kentakozuka/go-module-hello@v2.0.0
 GO111MODULE=on go get github.com/kentakozuka/go-module-hello@v1.0.0
 ```
 
